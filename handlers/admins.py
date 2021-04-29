@@ -22,7 +22,7 @@ async def update_admin(client, message):
     for u in admins:
         new_ads.append(u.user.id)
     a[message.chat.id] = new_ads
-    await message.reply_text('❏ Berhasil memperbarui daftar admin di grup **{}**'.format(message.chat.title))
+    await message.reply_text('✅ Berhasil Reload, Daftar Admin Diperbaharui!**{}**'.format(message.chat.title))
 
 
 
@@ -106,4 +106,4 @@ async def skip(_, message: Message):
 @errors
 async def admincache(client, message: Message):
     set(message.chat.id, [member.user for member in await message.chat.get_members(filter="administrators")])
-    #await message.reply_text("⚝𝗜𝗿𝗮𝗺𝗮 𝗠𝘂𝘀𝗶𝗸⚝ : ❇️ Admin cache refreshed!")
+    #await message.reply_text("Crystall Music! : ❇️ Admin Berhasil Di-Perbaharui!")
