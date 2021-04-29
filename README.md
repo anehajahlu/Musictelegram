@@ -1,6 +1,6 @@
 <h1 align="centre">⚡ Crystal Heart Music!</h1>
 
-### Bot yang dapat memutar musik pada panggilan suara grup telegram
+### AKU PEMUTAR MUSIK DITELEGRAM, SEMOGA KAMU SENANG MENGGUNAKAN AKU!:))
 
 
 <h2> Fitur Terbaru 🔥 </h2>
