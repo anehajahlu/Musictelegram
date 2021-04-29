@@ -420,7 +420,7 @@ async def play(_, message: Message):
                    #print(e)
                    #await lel.edit(
                    #    f"<b>Pengguna {user.first_name} tidak dapat bergabung dengan grup Anda! Pastikan pengguna tidak diblokir dalam grup."
-                   #    "\n\nAtau tambahkan @IramaMusikBot ke grup Anda secara manual dan coba lagi</b>",
+                   #    "\n\nAtau tambahkan @assistencrystal ke grup Anda secara manual dan coba lagi</b>",
                    #)
                    pass
     try:
@@ -474,7 +474,7 @@ async def play(_, message: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Support Channel 🖥", url="https://t.me/AkuUserBot") 
+                        "Channel Aku!", url="https://t.me/captionanakmuda") 
                 ],
                 [       
                     InlineKeyboardButton(
@@ -558,7 +558,7 @@ async def deezer(client: Client, message_: Message):
                    #print(e)
                    #await lel.edit(
                    #    f"<b>Pengguna {user.first_name} tidak bisa bergabung dengan grup Anda! Pastikan pengguna tidak diblokir dalam grup."
-                   #    "\n\nAtau tambahkan @IramaMusikBot ke Grup Anda secara manual dan coba lagi</b>",
+                   #    "\n\nAtau tambahkan @assistencrystal ke Grup Anda secara manual dan coba lagi</b>",
                    #)
                    pass
     try:
@@ -605,10 +605,10 @@ async def deezer(client: Client, message_: Message):
              ],                     
              [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/VcgSupportGroup"
+                        "Group Aku!", url="https://t.me/humangabutguys"
                     ),
                     InlineKeyboardButton(
-                        "Owner 🖥", url="https://instagram.com/hendraputraaaaaa"
+                        "Owner Aku!", url="https://t.me/afterdaytoxic"
                     )
                 ],
              [       
@@ -690,7 +690,7 @@ async def jiosaavn(client: Client, message_: Message):
                    #print(e)
                    #await lel.edit(
                    #    f"<b>Pengguna {user.first_name} tidak bisa bergabung dengan grup Anda! Pastikan pengguna tidak diblokir dalam grup."
-                   #    "\n\nAtau tambahkan @IramaMusikBot ke Grup Anda secara manual dan coba lagi</b>",
+                   #    "\n\nAtau tambahkan @assistencrystal ke Grup Anda secara manual dan coba lagi</b>",
                    #)
                    pass
     try:
@@ -733,10 +733,10 @@ async def jiosaavn(client: Client, message_: Message):
              ],                     
              [
                 InlineKeyboardButton(
-                        "Group Support", url="https://t.me/VcgSupportGroup"
+                        "Group Aku!", url="https://t.me/humangabutguys"
                 ),
                 InlineKeyboardButton(
-                        "📲 Owner", url="https://instagram.com/hendraputraaaaaa"
+                        "Owner Aku!", url="https://t.me/afterdaytoxic"
                 )
             ],
              [       
