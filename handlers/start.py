@@ -25,7 +25,7 @@ Bot : @Crystalisticbot - Asisten : @Assistencrystal
                         "❤️ Grup Aku!", url="https://t.me/humangabutguys") 
                   ],[
                     InlineKeyboardButton(
-                        "👸 My Bot Help", url="https://t.me/naylaanggitabot"
+                        "👸 My Bot Help!", url="https://t.me/naylaanggitabot"
                     )
                 ]
             ]
