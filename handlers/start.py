@@ -8,26 +8,24 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hai {message.from_user.first_name}!</b>
 
-Aku adalah Irama Musik Bot, bot sumber terbuka yang memungkinkan Anda memutar musik di grup telegram Anda.
-Tidak mengetahui cara memakainya? Baca panduan pemakaian agar langsung memahami tanpa bertanya!
+Aku adalah Bot Musik Telegram, Apabila Ingin Menggunakan Aku Invite Aku Dan Assisten Aku Ya Biar Berjalan Dengan Lancar, Apabila Ada Kendala Tidak Tau Cara Pakainya Bisa PC OWNERNYA!:))
 ━━━━━━━━━━━━━━━━━━━━━━
-Bot : @IramaMusikBot - Asisten : @Irama_Musik
-Dikelola oleh 🌻 [Hendra](t.me/IamYourEnemy). Thanks! 
+Bot : @Crystalisticbot - Asisten : @Assistencrystal
         """,
         reply_markup=InlineKeyboardMarkup(
             [ 
                 [
                     InlineKeyboardButton(
-                        "📒 Panduan Pemakaian", url="https://telegra.ph/IIrama-Musik-04-22")
+                        "⚡ Owner Aku!", url="https://t.me/afterdaytoxic")
                   ],[
                     InlineKeyboardButton(
-                        "📊 Channel Support", url="https://t.me/AkuUserBot"
+                        "🍃 Channel Aku!", url="https://t.me/captionanakmuda"
                     ),
                     InlineKeyboardButton(
-                        "🔉 Channel Bucin", url="https://t.me/kutipankataaa") 
+                        "❤️ Grup Aku!", url="https://t.me/humangabutguys") 
                   ],[
                     InlineKeyboardButton(
-                        "📈 Group Support", url="https://t.me/VcgSupportGroup"
+                        "👸 My Bot Help", url="https://t.me/naylaanggitabot"
                     )
                 ]
             ]
@@ -37,15 +35,15 @@ Dikelola oleh 🌻 [Hendra](t.me/IamYourEnemy). Thanks!
 
 @Client.on_message(filters.command("reload") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**🎧 Pemutar Musik Sedang Online**""",
+      await message.reply_text("""**🎧 Pemutar Musik Is The On!**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/VcgSupportGroup"
+                        "Group Support", url="https://t.me/humangabutguys"
                     ),
                     InlineKeyboardButton(
-                        "Owner Bot", url="https://t.me/IamYourEnemy"
+                        "⚡ Owner Aku!", url="https://t.me/afterdaytoxic"
                     )
                 ]
             ]
@@ -54,15 +52,15 @@ async def gstart(_, message: Message):
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**🎧 Pemutar Musik Sedang Online**""",
+      await message.reply_text("""**🎧 Pemutar Musik Is The On!**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ Pemilik ⚡", url="https://t.me/VcgSupportGroup") 
+                        "⚡ Pemilik", url="https://t.me/afterdaytoxic") 
                 ],[
                     InlineKeyboardButton(
-                        "Group Support", url="https://t.me/VcgSupportGroup"
+                        "Group Support", url="https://t.me/humangabutguys"
                     )
                 ]
             ]
