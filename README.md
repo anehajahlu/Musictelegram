@@ -1,12 +1,7 @@
-<h1 align="centre">𝗜𝗿𝗮𝗺𝗮 𝗠𝘂𝘀𝗶𝗸🎵</h1>
+<h1 align="centre">⚡ Crystal Heart Music!</h1>
 
 ### Bot yang dapat memutar musik pada panggilan suara grup telegram
 
-
-
-<p align="center">
-  <img src="https://telegra.ph/file/cea5796cccbe98d8df28d.jpg">
-</p>
 
 <h2> Fitur Terbaru 🔥 </h2>
 
@@ -45,16 +40,14 @@
 - /userbotjoin - undang asisten ke obrolan Anda
 - /admincache - Segarkan daftar admin
 
-
-#### Based on Callsmusic-1
-
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HalbertKun/HalbertMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anehajahlu/Musictelegram)
 
 Gunakan String Pyrogam
 
 ### Credits
+- [Afterday](http://github.com/anehajahlu):
 - [Halbert](https://github.com/HalbertKun):
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
